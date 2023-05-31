@@ -5,6 +5,7 @@ namespace CarLotSimulator
 	{
 		public Cars()
 		{
+			CarLot.NumberOfCars++;
 		}
 
 
